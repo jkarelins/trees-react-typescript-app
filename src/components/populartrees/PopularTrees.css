@@ -1,0 +1,16 @@
+.formAddNew {
+  margin-left: 5vw;
+  text-align: left;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 80px;
+}
+
+body {
+  width: 100vw;
+  background-color: #ddd;
+  margin: 3rem;
+}
